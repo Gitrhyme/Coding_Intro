@@ -45,13 +45,13 @@ nav ul {
   margin: 0;
   padding: 0;
   list-style: none;
-  text-align: center;
 }
 
 nav li {
   display: inline-block;
   margin-left: 70px;
   padding-top: 23px;
+  text-align: center;
 
   position: relative;
 }
