@@ -6,6 +6,13 @@ body{
   position: relative;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .navbar{
 height: 100px;
 }
