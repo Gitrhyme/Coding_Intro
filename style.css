@@ -9,6 +9,12 @@ body{
   text-align: center;
 }
 
+p{
+  background-color: #283847;
+  color: #ffcf2d;
+  font-size: 25px;
+  line-height: 50px;
+}
 
 }
 
