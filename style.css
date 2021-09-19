@@ -15,7 +15,6 @@ h1{
  background-color: #000514;
  border-style: solid; 
  border-color: #011015;
- width: 50%;
 }
 
 p{
@@ -25,7 +24,6 @@ p{
   line-height: 50px;
   border-style: solid; 
   border-color: #011015;
-  width: 50%;
 }
 
 }
