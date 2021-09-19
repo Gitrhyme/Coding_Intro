@@ -5,3 +5,6 @@ body{
   background-size: cover;
   position: relative;
 }
+.navbar{
+height: 50px;
+}
