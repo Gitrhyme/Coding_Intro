@@ -9,11 +9,18 @@ body{
   text-align: center;
 }
 
+h1{
+ color: #583982;
+ font-size: 30px;
+}
+
 p{
   background-color: #283847;
   color: #ffcf2d;
   font-size: 25px;
   line-height: 50px;
+  border-style: solid; 
+  border-color: #011015;
 }
 
 }
