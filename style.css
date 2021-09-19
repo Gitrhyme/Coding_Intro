@@ -9,6 +9,14 @@ body{
   text-align: center;
 }
 
+p {
+  color: #ff8224;
+  height: 7em;
+  background: #283847;
+  columns: 3;
+  column-rule: 1px solid;
+}
+
 }
 
 .center{
