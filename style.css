@@ -12,6 +12,9 @@ body{
 h1{
  color: #583982;
  font-size: 30px;
+ background-color: #000514;
+ border-style: solid; 
+ border-color: #011015;
 }
 
 p{
