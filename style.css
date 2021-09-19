@@ -23,7 +23,7 @@ margin: 0 auto;
 }
 
 header{
-background: rgba(191,170,177,.25);
+background: rgba(191,170,177,.45);
 }
 
 header::after {
