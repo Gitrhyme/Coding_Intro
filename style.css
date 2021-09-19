@@ -61,6 +61,8 @@ nav a {
   text-decoration: none;
   text-transform: uppercase;
   font-size: 14px;
+  font-weight: bold;
+  text-align: center;
 }
 
 nav a:hover {
