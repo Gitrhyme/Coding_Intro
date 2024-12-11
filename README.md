@@ -1,4 +1,4 @@
-# SamIntro
+# Coding Intro
 This was my introduction to computer science and coding in general. 
 
 Here you can find some cool javascript programs posted on my github webpage!
